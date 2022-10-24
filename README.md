@@ -13,6 +13,10 @@
 
 - Be part of a BioInformatics Project
 
+**Languages:** C, C++, Python, HTML, CSS, Bootstrap
+
+**Python Libraries:** math, os, shutil, pygame, tkinter, turtle, random, qiskit, numpy, beautifulsoup, pandas, pillow, pyautogui, mediapipe
+
 <h3 align="center">Connect with me</h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/sujosh-nag-651174249/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Sujosh Nag" height="30" width="40" /></a>

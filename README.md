@@ -17,7 +17,7 @@
 
 **Python Libraries:** math, os, shutil, pygame, tkinter, turtle, random, qiskit, numpy, beautifulsoup, pandas, pillow, pyautogui, mediapipe
 
-Have a look on my website. Click <a href="https://nagsujosh.github.io/sujoshnag/">**Sujosh Nag**</a>
+Have a look on my portfolio website. Click <a href="https://nagsujosh.github.io/sujoshnag/">**Sujosh Nag**</a>
 
 <h3 align="center">Connect with me</h3>
 <p align='center'>

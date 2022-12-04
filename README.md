@@ -28,3 +28,6 @@ Have a look on my portfolio website. Click <a href="https://nagsujosh.github.io/
 <a href="https://www.instagram.com/sujoshnag/" target="_blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="sujoshnag" height="30" width="40" /></a>
 
 </p>
+
+
+![snake gif](https://github.com/nagsujosh/nagsujosh/blob/output/github-contribution-grid-snake.gif)

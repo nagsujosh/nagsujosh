@@ -31,3 +31,13 @@ Have a look on my portfolio website. Click <a href="https://nagsujosh.github.io/
 
 
 ![snake gif](https://github.com/nagsujosh/nagsujosh/blob/output/github-contribution-grid-snake.gif)
+
+
+<div align="center">
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagsujosh&theme=radical&layout=compact" />
+
+
+</div>
+

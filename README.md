@@ -17,7 +17,7 @@
 
 **Python Libraries:** math, os, shutil, pygame, tkinter, turtle, random, qiskit, numpy, beautifulsoup, pandas, pillow, pyautogui, mediapipe
 
-Have a Glimpse on my resume. Click <a href="https://drive.google.com/file/d/1fA4EWYFngh6SGOxEc_usrJKa0qvU5ghC/view?usp=sharing" target="_blank">**Resume**</a>
+Have a Glimpse on my resume. Click <a href="https://drive.google.com/file/d/1vO9rgcjyxyO7-EuFUu-hXFWSz2qSHPzf/view?usp=sharing" target="_blank">**Resume**</a>
 
 Have a look on my portfolio website. Click <a href="https://sujoshnag.netlify.app" target="_blank">**Sujosh Nag**</a>
 

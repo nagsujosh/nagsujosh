@@ -19,7 +19,7 @@
 
 Have a Glimpse on my resume. Click <a href="https://drive.google.com/file/d/1fA4EWYFngh6SGOxEc_usrJKa0qvU5ghC/view?usp=sharing" target="_blank">**Resume**</a>
 
-Have a look on my portfolio website. Click <a href="https://nagsujosh.github.io/sujoshnag/" target="_blank">**Sujosh Nag**</a>
+Have a look on my portfolio website. Click <a href="https://sujoshnag.netlify.app" target="_blank">**Sujosh Nag**</a>
 
 <h3 align="center">Connect with me</h3>
 <p align='center'>

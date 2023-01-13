@@ -27,6 +27,8 @@ Have a look on my portfolio website. Click <a href="https://sujoshnag.netlify.ap
 <a href="https://www.facebook.com/sujosh.nag.9" target="_blank"><img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="Sujosh Nag" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sujoshnag/" target="_blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="sujoshnag" height="30" width="40" /></a>
 
+![snake gif](https://github.com/nagsujosh/nagsujosh/blob/output/github-contribution-grid-snake.gif)
+
 </p>
 
 

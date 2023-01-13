@@ -35,6 +35,7 @@ Have a look on my portfolio website. Click <a href="https://sujoshnag.netlify.ap
 <div align="center">
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagsujosh&theme=tokyonight)
 
 
 

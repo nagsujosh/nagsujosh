@@ -34,10 +34,3 @@ Have a look on my portfolio website. Click <a href="https://sujoshnag.netlify.ap
  ![](https://visitcount.itsvg.in/api?id=nagsujosh&icon=2&color=9)
 
 ![snake gif](https://github.com/nagsujosh/nagsujosh/blob/output/github-contribution-grid-snake.gif)
-
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagsujosh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</p>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

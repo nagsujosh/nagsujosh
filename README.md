@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sujosh Nag</h1>
-<h2 align="center">High School Senior - Notre Dame College</h2>
+<h2 align="center">Freshman - University of New Hampshire</h2>
 
-- 🌱 I’m currently learning **Machine Learning and Quantum computing**
+- 🌱 I’m currently majoring in **Computer Science**
 
-- 📫 Reach me at **nagsujosh2004@gmail.com**
+- 📫 Reach me at **nagsujosh2004@gmail.com**, **sujosh.nag@unh.edu**
 
 🎯 In the future, I want to...
 
@@ -13,13 +13,13 @@
 
 - Be part of a BioInformatics Project
 
-**Languages:** C, C++, Python, HTML, CSS, Bootstrap, JavaScript
+**Languages:** C, C++, Python, HTML, CSS, Bootstrap, JavaScript, Bash
 
 **Python Libraries:** math, os, shutil, pygame, tkinter, turtle, random, qiskit, numpy, beautifulsoup, pandas, pillow, pyautogui, mediapipe
 
 Have a Glimpse on my resume. Click <a href="https://drive.google.com/file/d/1e1oy7m7pLnWS-Yc-ppN3oUGifYPzyM5A/view?usp=sharing" target="_blank">**Resume**</a>
 
-Have a look on my portfolio website. Click <a href="https://sujoshnag.netlify.app" target="_blank">**Sujosh Nag**</a>
+Have a look at my portfolio website. Click <a href="https://sujoshnag.netlify.app" target="_blank">**Sujosh Nag**</a>
 
 <h3 align="center">Connect with me</h3>
 <p align='center'>

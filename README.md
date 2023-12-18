@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujosh Nag</h1>
-<h2 align="center">High School Senior - Notre Dame College</h2>
+<h2 align="center">Freshman - University of New Hampshire</h2>
 
-- 🌱 I’m currently learning **Machine Learning and Quantum computing**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 Reach me at **nagsujosh2004@gmail.com**
 
@@ -32,5 +32,3 @@ Have a look on my portfolio website. Click <a href="https://sujoshnag.netlify.ap
   
  ---
  ![](https://visitcount.itsvg.in/api?id=nagsujosh&icon=2&color=9)
-
-![snake gif](https://github.com/nagsujosh/nagsujosh/blob/output/github-contribution-grid-snake.gif)

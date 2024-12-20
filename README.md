@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujosh Nag</h1>
-<h2 align="center">Shophomore - University of New Hampshire</h2>
+<h2 align="center">Sophomore - University of New Hampshire</h2>
 
 - 📫 Reach me at **nagsujosh2004@gmail.com**
 

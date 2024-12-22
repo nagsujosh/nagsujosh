@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Quantum Computing Enthusiast | Product Creator</h3>
 
 <p align="center">
-  <a href="https://sujoshnag.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.notion.so/sujosh/Sujosh-Nag-11512156cfd68039b018e1392ce8ad47" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
   <a href="https://drive.google.com/file/d/1jOSA_7-_dm5VzNJJgKg-cnEUHQy5ctcn/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%233B7A57.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
   <a href="mailto:nagsujosh2004@gmail.com"><img src="https://img.shields.io/badge/Email-%230078D7.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/sujoshnag/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

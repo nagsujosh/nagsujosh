@@ -11,54 +11,56 @@
 ---
 
 ### 🌟 About Me  
-I am a **sophomore at the University of New Hampshire**, pursuing a degree in Computer Science with a passion for **Software Development**, **Quantum Computing**, and **Product Management**. My goal is to build impactful products that solve real-world problems and inspire millions.
+I’m a **Computer Science sophomore at the University of New Hampshire**, passionate about designing and building impactful products. Whether it’s **software development**, exploring the intersection of **Quantum Computing and Machine Learning**, or creating innovative **product solutions**, I strive to solve real-world problems and inspire change.  
 
 - 🌐 **Founder & Membership Chair** at Desi Student Association  
-- 🔧 **Senior Developer** at the UNH InterOperability Lab specializing in **NVMe/PCIe®** and **ZNS/PCIe® technologies**  
-- 🎯 Future aspirations: Integrating **Quantum Computing** with **Machine Learning** and **Cybersecurity**
+- 🔧 **Senior Developer** at UNH InterOperability Lab specializing in **NVMe/PCIe®** and **ZNS/PCIe® technologies**  
+- 🌱 **Learning**: Competitive Programming, Reinforcement Learning, and advanced **Data Structures & Algorithms**  
+- 🎯 **Aspirations**: Integrate **Quantum Computing** with practical applications in **AI** and **Cybersecurity**
 
 ---
 
 ### 💻 Technical Skills  
 
-#### **Programming & Scripting**  
-- Proficient: `Java`, `Python`, `JavaScript`, `TypeScript`, `MySQL`, `HTML`, `CSS`  
-- Familiar: `MongoDB`, `MATLAB`, `C++`, `Julia`, `Lean`  
+#### **Languages**  
+- **Proficient**: `Java`, `Python`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `MySQL`  
+- **Familiar**: `MongoDB`, `MATLAB`, `C++`, `Julia`, `Lean`  
 
 #### **Frameworks & Tools**  
-- Frontend: `React`, `Angular`, `Bootstrap`, `TailwindCSS`  
-- Backend: `Node.js`, `Flask`, `Supabase`  
-- Development: `Git`, `Azure`, `LaTeX`, `Qiskit`  
+- **Frontend**: `React`, `Angular`, `Bootstrap`, `TailwindCSS`  
+- **Backend**: `Node.js`, `Flask`, `Supabase`  
+- **DevOps**: `Git`, `Azure`, `LaTeX`  
+- **Quantum Development**: `Qiskit`, `Quantum Machine Learning`  
 
-#### **Python Libraries**  
-- Core: `numpy`, `pandas`, `tkinter`, `pygame`  
-- Advanced: `qiskit`, `beautifulsoup`, `mediapipe`  
+#### **Libraries & APIs**  
+- **Core**: `numpy`, `pandas`, `tkinter`, `pygame`  
+- **Advanced**: `beautifulsoup`, `mediapipe`, `matplotlib`
 
 ---
 
 ### 📘 Featured Projects  
 
-- 🕹️ **2-Player Space Fighter Game**  
-  A competitive multiplayer game featuring custom physics.  
-  *Technologies:* Python, Pygame  
+#### 🕹️ **Space Fighter: A Multiplayer Game**  
+A competitive two-player game featuring custom physics and animations.  
+**Technologies**: Python, Pygame  
 
-- 🏋️ **Gym Management Website**  
-  A user-friendly platform for gym members and staff.  
-  *Technologies:* HTML, CSS, jQuery, MySQL  
+#### 🏋️ **Gym Management Website**  
+A user-friendly platform for gym members to track activities and manage memberships.  
+**Technologies**: HTML, CSS, jQuery, MySQL  
 
-- ♟️ **Chess Game Implementation**  
-  Developed a fully functional chess game with an intuitive UI.  
-  *Technologies:* Python, Tkinter  
+#### ♟️ **Chess Game**  
+A fully interactive chess game with a smooth user interface and custom rules.  
+**Technologies**: Python, Tkinter  
 
-- 🌐 **Lost and Found Website**  
-  Facilitates students in reporting and reclaiming lost items.  
-  *Technologies:* Azure Functions, MongoDB, Python  
+#### 🔎 **Lost and Found Platform**  
+A microservices-based web app for university students to report and reclaim lost items.  
+**Technologies**: Azure Functions, Python, MongoDB  
 
 ---
 
-### 🌍 Connect with Me  
+### 🌍 Let's Connect  
 
-<p align='center'>
+<p align="center">
   <a href="https://www.linkedin.com/in/sujoshnag/" target="_blank"><img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/sujosh.nag.9" target="_blank"><img src="https://simpleicons.org/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sujosh.nag/" target="_blank"><img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
@@ -75,4 +77,5 @@ I am a **sophomore at the University of New Hampshire**, pursuing a degree in Co
 
 ---
 
-### 🎯 Let's Build Something Incredible Together!
+### 🚀 Let’s Build the Future Together  
+Feel free to reach out to me if you'd like to collaborate on **Quantum Computing**, **Machine Learning**, or **innovative software projects**. Together, we can make the world a better place—one line of code at a time!

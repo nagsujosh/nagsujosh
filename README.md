@@ -30,7 +30,7 @@ I’m a **Computer Science sophomore at the University of New Hampshire**, passi
 - **Frontend**: `React`, `Angular`, `Bootstrap`, `TailwindCSS`  
 - **Backend**: `Node.js`, `Flask`, `Supabase`  
 - **DevOps**: `Git`, `Azure`, `LaTeX`  
-- **Quantum Development**: `Qiskit`, `Quantum Machine Learning`  
+- **Quantum Development**: `Qiskit`  
 
 #### **Libraries & APIs**  
 - **Core**: `numpy`, `pandas`, `tkinter`, `pygame`  

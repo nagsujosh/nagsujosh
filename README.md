@@ -1,83 +1,119 @@
-<h1 align="center">👋 Hello, I'm Sujosh Nag</h1>
-<h3 align="center">Software Engineer | Aspirant Research Assistant | Product Creator</h3>
+# 👋 Hi, I’m Sujosh Nag
 
-<p align="center">
-  <a href="https://www.notion.so/sujosh/Sujosh-Nag-11512156cfd68039b018e1392ce8ad47" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:nagsujosh2004@gmail.com"><img src="https://img.shields.io/badge/Email-%230078D7.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/sujoshnag/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+**Computer Science Junior @ University of New Hampshire**  
+**Robotics • Reinforcement Learning • Systems • Product Engineering**
 
----
-
-### 🌟 About Me  
-I’m a **Computer Science rising Junior at the University of New Hampshire**, passionate about designing and building impactful products. Whether it’s **software development**, exploring the intersection of **Quantum Computing and Machine Learning**, or creating innovative **product solutions**, I strive to solve real-world problems and inspire change.  
-
-- 🌐 **Founder & Membership Chair** at Desi Student Association
-- 🔧 **Software Engineering Intern - AI & Automation** at Sustainability Roundtable Inc.
-- 🔧 Ex **Senior Developer** at UNH InterOperability Lab specializing in **NVMe/PCIe®** and **ZNS/PCIe® technologies** 
-- 🎯 **Aspirations**: Integrate **Robotics** Application in Daily Life
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sujoshnag.com/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagsujosh2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujoshnag/)
 
 ---
 
-### 💻 Technical Skills  
+## 🌱 About Me
 
-#### **Languages**  
-- **Proficient**: `Java`, `Python`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `MySQL`  
-- **Familiar**: `MongoDB`, `MATLAB`, `C++`, `Julia`, `Lean`  
+I’m a **junior in Computer Science** with strong interests in **robotics, reinforcement learning, and systems engineering**.  
+I enjoy working across the stack—from **low-level systems and robotics control** to **machine learning pipelines and product-driven applications**.
 
-#### **Frameworks & Tools**  
-- **Frontend**: `React`, `Angular`, `Bootstrap`, `TailwindCSS`  
-- **Backend**: `Node.js`, `Flask`, `Supabase`  
-- **DevOps**: `Git`, `Azure`, `LaTeX`  
-- **Quantum Development**: `Qiskit`  
+My long-term goal is to pursue a **PhD focused on Imitation Learning and Robotics**, while continuing to build tools and products that operate reliably in the real world.
 
-#### **Libraries & APIs**  
-- **Core**: `numpy`, `pandas`, `tkinter`, `pygame`  
-- **Advanced**: `beautifulsoup`, `mediapipe`, `matplotlib`
+- 🎓 **B.S. Computer Science**, University of New Hampshire (Expected 2027)
+- 🤖 Research interests: **Reinforcement Learning, Imitation Learning, Robotics, Vision-Language Models**
+- 🧠 Enjoys blending **theory + implementation**
+- 🏗️ Builder mindset: research code, production systems, and user-facing products
 
 ---
 
-### 📘 Featured Projects  
+## 🧪 Experience & Leadership
 
-#### 🕹️ **Space Fighter: A Multiplayer Game**  
-A competitive two-player game featuring custom physics and animations.  
-**Technologies**: Python, Pygame  
+- **Engineering Intern – AI & Automation**  
+  *Sustainability Roundtable Inc.* (Summer 2025)
 
-#### 🏋️ **Gym Management Website**  
-A user-friendly platform for gym members to track activities and manage memberships.  
-**Technologies**: HTML, CSS, jQuery, MySQL  
+- **Senior Developer**  
+  *UNH InterOperability Lab*  
+  → Systems-level development involving **NVMe / PCIe®**, **ZNS**, and performance-critical infrastructure
 
-#### ♟️ **Chess Game**  
-A fully interactive chess game with a smooth user interface and custom rules.  
-**Technologies**: Python, Tkinter  
+- **Founder & Chair**  
+  *Desi Student Association*  
 
-#### 🔎 **Lost and Found Platform**  
-A microservices-based web app for university students to report and reclaim lost items.  
-**Technologies**: Azure Functions, Python, MongoDB  
+- **Upcoming Software Engineering Intern**  
+  *Arista* (Summer 2026)
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+- Java, Python, JavaScript, TypeScript, HTML, CSS, MySQL, Bash, C++, MATLAB, Julia, Lean, MongoDB
+
+### Frameworks & Platforms
+- **Frontend:** React, Angular, TailwindCSS, Bootstrap  
+- **Backend:** Flask, Node.js, Supabase  
+- **Systems / DevOps:** Git, Azure, Linux, LaTeX  
+- **ML / Robotics:** PyTorch, NumPy, OpenCV, ROS 2 (learning)  
+
 
 ---
 
-### 🌍 Let's Connect  
+## 📘 Selected Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sujoshnag/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="https://www.instagram.com/sujosh.nag/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+### 🤖 Robotics & Learning
+- **Diffusion & Imitation Learning Policies**  
+  Implemented and debugged diffusion-based policies for robotic manipulation (Franka, YuMi), including custom rollout logic, vision pipelines, and success metrics.
+
+- **Self-Supervised Vision Experiments (DINO / SAM)**  
+  Feature extraction, similarity analysis, and segmentation-based visual grounding for robotics perception.
 
 ---
 
-### 📊 GitHub Stats  
+## 🧠 Systems & Software
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagsujosh&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="420" height="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagsujosh&layout=compact&theme=tokyonight" alt="Top Languages" width="420" height="400"/>
-</p>
+### 🧳 **Lost & Found Platform**
+
+**Repo:** [`cattracker`](https://github.com/nagsujosh/cattracker)
+A **cloud-native, ticket-driven platform** for university lost-and-found operations.
+Designed with a modular backend and deployable serverless components.
+
+* CRUD workflows for lost/found items
+* Searchable item metadata with status tracking
+* Containerized development setup
+
+**Tech:** Azure Functions · Python · MongoDB · Docker · HTML/CSS · JavaScript
 
 ---
 
-### 🚀 Let’s Build the Future Together  
-Feel free to reach out to me if you'd like to collaborate on **Quantum Computing**, **Machine Learning**, or **innovative software projects**. Together, we can make the world a better place—one line of code at a time!
+### 🎧 **Your Daily Podcaster**
+
+**Repo:** [`your-daily-podcaster`](https://github.com/nagsujosh/your-daily-podcaster)
+An **automated content pipeline** that crawls sources, summarizes them with LLMs, converts them to audio, and publishes a daily podcast.
+
+* End-to-end automation (crawl → summarize → TTS → publish)
+* CI-driven execution with logging and observability
+* Designed as a reproducible pipeline, not a script
+
+**Tech:** Python · LLM APIs · TTS · GitHub Actions
+
+---
+
+### 📸 **Photo Manager**
+
+**Repo:** [`photo-manager`](https://github.com/nagsujosh/photo-manager)
+A lightweight **local photo organization tool** focused on usability and automation.
+
+* File indexing and metadata handling
+* Clean CLI / scriptable interface
+* Emphasis on correctness and maintainability
+
+**Tech:** Python
+
+
+
+---
+
+## 🌍 Let’s Connect
+
+I’m always happy to discuss:
+- 🤖 Robotics & Imitation Learning  
+- 🧠 Reinforcement Learning (theory + practice)  
+- 🧪 Research engineering & ML systems  
+- 🚀 Product-driven engineering
+
+Feel free to reach out—collaboration is where the best ideas happen.

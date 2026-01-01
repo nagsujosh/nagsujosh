@@ -105,8 +105,7 @@ A lightweight **local photo organization tool** focused on usability and automat
 **Tech:** Python
 
 
-![GitHub Stats](https://github-stats.sujoshnag.com/stats/classic/nagsujosh)
-
+![GitHub Stats](https://github-stats.sujoshnag.com/stats/classic/nagsujosh?accent=f43f5e)
 
 ---
 

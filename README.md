@@ -25,6 +25,9 @@ My long-term goal is to pursue a **PhD focused on Imitation Learning and Robotic
 
 ## 🧪 Experience & Leadership
 
+- **Undergraduate Research Assistant**  
+  *Cognitive Assistive Robotics Lab, University of New Hampshire*
+
 - **Engineering Intern – AI & Automation**  
   *Sustainability Roundtable Inc.* (Summer 2025)
 
@@ -112,9 +115,8 @@ A lightweight **local photo organization tool** focused on usability and automat
 ## 🌍 Let’s Connect
 
 I’m always happy to discuss:
-- 🤖 Robotics & Imitation Learning  
-- 🧠 Reinforcement Learning (theory + practice)  
-- 🧪 Research engineering & ML systems  
-- 🚀 Product-driven engineering
+- Robotics & Imitation Learning  
+- Reinforcement Learning (theory + practice)  
+- Product-driven engineering
 
 Feel free to reach out—collaboration is where the best ideas happen.
